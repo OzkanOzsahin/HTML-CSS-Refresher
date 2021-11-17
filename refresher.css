@@ -1,0 +1,114 @@
+
+
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+
+.flex-container > div {
+
+    width: 550px;
+    margin: 5px;
+    text-align: start;
+    border-width: solid;
+    border: solid 1px;
+    height: 250px;
+
+
+
+}
+
+
+div#a {
+    font-weight: bold;
+    margin-left: 4px;
+}
+
+div#b {
+    font-weight: bold;
+    margin-left: 4px;
+}
+
+div#c {
+    color: lightgray;
+    margin-left: 4px;
+}
+
+div#d {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 4px;
+}
+
+div#e {
+    color: lightgray;
+    margin-left: 6px;
+}
+
+.box {
+    border-radius: 15px;
+}
+
+div #button1 {
+    background-color: white;
+    color: green;
+    width: 250px;
+    height: 50px;
+    border: green;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    padding-left: 8px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    
+    
+    
+      
+}
+
+div #button2 {
+    background-color: white;
+    color:red;
+    width: 245px;
+    height: 50px;
+    border:solid;
+    border-style:solid 1px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+} 
+
+div #button3 {
+    background-color: white;
+    color: green;
+    width: 245px;
+    height: 50px;
+    border: solid;
+    border-style: solid 1px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}    
+
+
+div #button4 {
+
+    background-color: white;
+    color: red;
+    width: 245px;
+    height: 50px;
+    border: solid;
+    border-style: solid 1px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+p .highlight {
+    
+    font-weight: bold;
+  }
